@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+button {
+  border: none;
+  margin: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.reset-button {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.game-img {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  border: 1px solid black;
+  background-color: aqua;
+  text-decoration: none;
+  border-radius: 50px;
+}
